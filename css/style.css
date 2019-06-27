@@ -1,8 +1,9 @@
-html, body {
+html,
+body {
     min-width: 1122px;
     min-height: 1750px;
     margin: 0;
-    padding:0;
+    padding: 0;
 }
 
 body {
@@ -16,6 +17,7 @@ body {
     display: table;
     clear: both;
 }
+
 .container {
     width: 940px;
     margin: 0 auto;
@@ -34,7 +36,7 @@ body {
 .user-block {
     float: right;
     width: 140px;
-    
+
     /* Только для оформления сетки */
     min-height: 70px;
 }
@@ -115,4 +117,3 @@ body {
     /* Только для оформления сетки */
     min-height: 90px;
 }
-
